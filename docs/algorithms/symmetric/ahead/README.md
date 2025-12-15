@@ -23,4 +23,3 @@ This folder lists authenticated encryption options in FileVault. Each page follo
 ## Related docs
 - Concepts: [docs/concepts/key_management.md](../../concepts/key_management.md)
 - Workflows: [docs/workflows/encryption_flow.md](../../workflows/encryption_flow.md), [docs/workflows/decryption_flow.md](../../workflows/decryption_flow.md)
-- CLI usage: [docs/cli/cli.md](../../cli/cli.md), [docs/cli/demo.md](../../cli/demo.md)

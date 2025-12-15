@@ -1,5 +1,6 @@
 site_name: File Vault
 copyright: Copyright &copy; 2025 Vuong Thanh Dat
+site_url: https://vuongdat67.github.io/FileVault_mkdocs/
 theme:
   name: material
   direction: ltr
